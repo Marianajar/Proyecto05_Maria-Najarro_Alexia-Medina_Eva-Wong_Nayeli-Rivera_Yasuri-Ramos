@@ -3,13 +3,19 @@
 Link del proyecto: http://www.kirakira.com.mialias.net/
 
 Datos de acceso para la pagina:
+
        Usuario: kiraki985
+       
        Contraseña: o98ePoG1
        
 Datos de acceso como usuario a la pagina:
+
        Usuario: Profesor
+       
        Correo electrónico: profesor@gmail.com
+       
        Contraseña: pwoalZ)Gg!Y8qQJuJDHybRS!
+       
        
 Definicion del emprendimiento:
 
